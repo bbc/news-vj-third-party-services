@@ -367,14 +367,16 @@ html.not-embedded .embed-module-container {
   width: auto !important;
 }
 
-
-
 #question_email {
   margin-left: 0 !important;
 }
 
+#question_name {
+  margin-left: 0 !important;
+}
+
 @media (min-width: 420px) {
-  #question_email {
+  #question_name {
     margin-left: 4px !important;
   }
 }
@@ -383,6 +385,7 @@ html.not-embedded .embed-module-container {
 #question_email {
   box-sizing: border-box;
   width: 100% !important;
+	border: 1px solid #d7dbdf;
 }
 
 @media (min-width: 420px) {
