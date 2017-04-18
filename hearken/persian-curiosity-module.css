@@ -1,5 +1,5 @@
 body {
-	font-family: "BBCNassim", "Arial", "Verdana", "Geneva", "Helvetica", sans-serif;
+	font-family: "BBCNassim", "Arial", "Verdana", "Geneva", "Helvetica", sans-serif !important;
 }
 
 .asker-info div:nth-child(6)  {
