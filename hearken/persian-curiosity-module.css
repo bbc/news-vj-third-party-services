@@ -1,3 +1,7 @@
+body {
+	font-family: "BBCNassim", "Arial", "Verdana", "Geneva", "Helvetica", sans-serif;
+}
+
 .asker-info div:nth-child(6)  {
     display: none;
     visibility: hidden;
@@ -401,4 +405,8 @@ html.not-embedded .embed-module-container {
 
 .embed-module-footer {
   background-color: transparent;
+}
+
+.form-control {
+	margin-top: 2px;
 }
