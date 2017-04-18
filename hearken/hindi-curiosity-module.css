@@ -1,9 +1,9 @@
 body {
-	font-family: "Mangal", "Arial", "Verdana", "Geneva", "Helvetica", sans-serif; 
+  font-family: "Mangal", "Arial", "Verdana", "Geneva", "Helvetica", sans-serif;
 }
 
 body * {
-	font-family: inherit !important;
+  font-family: inherit !important;
 }
 
 .asker-info div:nth-child(6)  {
@@ -308,7 +308,7 @@ h2.center {
 }
 
 .embed-module-container .footer {
-  text-align: right !important;
+  text-align: left !important;
   font-size: 13px !important;
   line-height: 16px;
   color: #505050 !important;
@@ -375,16 +375,14 @@ html.not-embedded .embed-module-container {
   width: auto !important;
 }
 
+
+
 #question_email {
   margin-left: 0 !important;
 }
 
-#question_name {
-  margin-left: 0 !important;
-}
-
 @media (min-width: 420px) {
-  #question_name {
+  #question_email {
     margin-left: 4px !important;
   }
 }
@@ -393,7 +391,6 @@ html.not-embedded .embed-module-container {
 #question_email {
   box-sizing: border-box;
   width: 100% !important;
-	border: 1px solid #d7dbdf;
 }
 
 @media (min-width: 420px) {
@@ -409,8 +406,4 @@ html.not-embedded .embed-module-container {
 
 .embed-module-footer {
   background-color: transparent;
-}
-
-.form-control {
-	margin-top: 2px;
 }
