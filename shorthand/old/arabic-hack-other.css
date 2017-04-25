@@ -1,0 +1,121 @@
+/*** Width-specific Content Hack ***/
+@media(max-width: 900px) {
+    .story div[id^='show-desktop'] {
+        display: none;
+    }
+}
+
+@media(min-width: 900px) {
+    .story div[id^='show-mobile'] {
+        display: none;
+    }
+}
+/*** END ***/
+
+/*** Article RTL Conversion ***/
+.story,
+.story .caption,
+.story blockquote p,
+.story .section-title .story-metadata {
+    font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    direction: rtl;
+}
+
+.story,
+.story .caption,
+.story blockquote p {
+    text-align: right;
+}
+
+.story .section-title .story-metadata {
+    font-size: 2.5em;
+}
+
+.story .quote-block blockquote:before {
+    left: initial;
+    right: 0;
+    transform: scaleX(-1);
+}
+
+.story .quote-block blockquote {
+    padding-right: 50px;
+    padding-left: 4%;
+}
+/*** END ***/
+
+/*** Navigation Header RTL Conversion ***/
+@media (max-width: 1100px) {
+    .story .navigation .section-navigation {
+        max-width: 50%;
+    }
+    
+    .story .bbc-service-logo__link {
+        width: 44px;
+    }
+    
+    .story .section-header .small-menu {
+        position: static;
+        text-align: left;
+    }
+    
+    .story .section-header .small-menu a {
+        display: inline-block;
+        height: 100%;
+    }
+    
+    .story .navigation .menu-overlay {
+        top: 41px;
+    }
+}
+
+@media (max-width: 755px) {
+    .story .navigation .section-navigation {
+        max-width: 976px;
+    }
+
+    .story .section-header {
+        padding: 4px 16px 4px 16px;
+    }
+}
+
+@media (max-width: 600px) {
+    .story .section-header {
+        padding: 4px 15px 4px 15px;
+    }
+}
+
+.story .navigation .section-navigation,
+.story .navigation .bbc-service-logo,
+.story .navigation .section-navigation.section-navigation__orb,
+.story .section-header.section-header__orb {
+    max-width: 976px; /* ORB */
+    padding-left: 16px; /* ORB */
+    padding-right: 16px; /* ORB */
+    margin: auto; /* ORB */
+    text-align: left;
+}
+
+.story .section-header.section-header__orb {
+    display: none; /*fixes overlaying with the ORB's BBC logo*/
+}
+
+.story .section-header.section-header__orb:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    background-color: #414141;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.story .bbc-service-logo {
+    width: auto;
+}
+
+.story .bbc-service-logo__link {
+    float: right;
+    width: 68px;
+}
+/*** END ***/
