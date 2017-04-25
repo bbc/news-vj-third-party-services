@@ -180,4 +180,17 @@
     margin-left: initial;
     margin-right: 3em;
 }
+
+@media (min-width: 625px) {
+    .bbc-shorthand-footer .bbc-shorthand-footer--section__second > h2 {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+}
+
+@media (max-width: 850px) {
+    .bbc-shorthand-footer .bbc-shorthand-footer--section__second {
+        margin-right: 0;
+    }
+}
 /*** END ***/
