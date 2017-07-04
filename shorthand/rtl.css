@@ -1,0 +1,178 @@
+/*** Article RTL Conversion ***/
+.story,
+.story .caption,
+.story blockquote p,
+.story .section-title .story-metadata,
+.story .section-title .story-title,
+.story .section-text-over-media .text-inner,
+.story .section, 
+.story .caption,
+.story .heading-block p,
+.story .heading-block h3,
+.story .st-text-block--heading
+.caption, .inline-media p, 
+.quote-block .quote-cite {
+    font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    direction: rtl;
+}
+
+.story,
+.story .caption,
+.story blockquote p {
+    text-align: right;
+}
+
+.story .section-title .story-metadata {
+    font-size: 2.5em;
+}
+
+.story .quote-block blockquote:before {
+    left: initial;
+    right: 0;
+    transform: scaleX(-1);
+}
+
+.story .quote-block blockquote {
+    padding-right: 50px;
+    padding-left: 4%;
+}
+/*** END ***/
+
+/*** Navigation Header RTL Conversion ***/
+.story .navigation .section-navigation,
+.story .navigation .bbc-service-logo,
+/*.story .navigation .section-navigation.section-navigation__orb,*/
+/*.story .section-header.section-header__orb*/
+.story .navigation .section-navigation,
+.story .section-header {
+    max-width: 976px; /* ORB */
+    padding-left: 16px; /* ORB */
+    padding-right: 16px; /* ORB */
+    margin: auto; /* ORB */
+    text-align: left;
+}
+
+/*.story .section-header.section-header__orb,*/
+.story .section-header {
+    visibility: hidden;
+}
+
+/*.story .section-header.section-header__orb:before,*/
+.story .section-header:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    background-color: #414141;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.story .bbc-service-logo {
+    width: auto;
+}
+
+.story .bbc-service-logo__link {
+    float: right;
+    width: 68px;
+}
+
+@media (max-width: 1100px) {
+    .story .navigation .section-navigation,
+    .story .navigation .bbc-service-logo,
+    /*.story .navigation .section-navigation.section-navigation__orb,*/
+    /*.story .section-header.section-header__orb, */
+    .story .navigation .section-navigation,
+    .story .section-header,
+    {
+        max-width: initial; /* No ORB match */
+    }
+
+    .story .section-header.section-header__orb,
+    .story .section-header {
+        visibility: visible;
+    }
+
+    /*.story .navigation .section-navigation {*/
+    /*    max-width: 50%;*/
+    /*}*/
+    
+    .story .bbc-service-logo__link {
+        width: 44px;
+    }
+    
+    .story .section-header .small-menu {
+        position: relative;
+        top: -4px;
+        right: initial;
+        height: 42px;
+    }
+    
+    .story .section-header .small-menu a {
+        display: inline-block;
+        height: 100%;
+        /*border-left: none;*/
+        border-right: 1px solid #666;
+        text-align: left;
+    }
+    
+    .story .navigation .menu-overlay {
+        top: 41px;
+    }
+}
+
+@media (max-width: 755px) {
+    .story .navigation .section-navigation {
+        max-width: 976px;
+    }
+
+    .story .section-header {
+        padding: 4px 16px 4px 16px;
+    }
+}
+
+@media (max-width: 600px) {
+    .story .section-header {
+        padding: 4px 15px 4px 15px;
+    }
+}
+
+/*** END ***/
+
+/*** Other sections ***/
+.bbc-shorthand-footer,
+.bbc-shorthand-onward-journey {
+    display: none !important;
+    direction: rtl;
+    font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
+}
+
+.bbc-shorthand-footer .bbc-shorthand-footer--section dd {
+    margin-right: 12em;
+    margin-left: 4em;
+}
+
+.bbc-shorthand-footer .bbc-shorthand-footer--section dt {
+    float: right;
+    clear: right;
+}
+
+.bbc-shorthand-footer .bbc-shorthand-footer--section__second {
+    margin-left: initial;
+    margin-right: 3em;
+}
+
+@media (min-width: 625px) {
+    .bbc-shorthand-footer .bbc-shorthand-footer--section__second > h2 {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+}
+
+@media (max-width: 850px) {
+    .bbc-shorthand-footer .bbc-shorthand-footer--section__second {
+        margin-right: 0;
+    }
+}
+/*** END ***/
