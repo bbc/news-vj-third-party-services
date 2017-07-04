@@ -1,0 +1,9 @@
+@media(max-width: 900px) {
+.bbc-news-vj-full-width-container .story div[id^='show-desktop'] {
+    display: none;
+}}
+@media(min-width: 900px) {
+.bbc-news-vj-full-width-container div[id^='show-mobile'] {
+    display: none;
+}} 
+
