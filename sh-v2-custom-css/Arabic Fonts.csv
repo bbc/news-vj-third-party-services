@@ -1,19 +1,1 @@
-Article Usage,Type,<620,>620,Shorthand CSS
-H1,canon,38/46,44/54,.Theme-Layer-TextBlock-Inner .Theme-StoryTitle
-Standfirst,trafalgar,32/38,36/50,.Theme-Layer-TextBlock-Inner .Theme-LeadIn
-Byline,pica,20/26,20/26,.Theme-Layer-TextBlock-Inner .Theme-Byline
-H2,trafalgar,32/38,36/50,.Theme-Layer-BodyText-Heading-Large
-H3,paragon,28/40,32/40,.Theme-Layer-BodyText-Heading-Small
-H4,double-pica,26/36,28/36,.Theme-Layer-BodyText-Heading-xs
-Body copy,body copy,22/32,22/32,".Theme-Layer-BodyText p, .Theme-Story p"
-Bullets,body copy,22/32,22/32,Theme-Layer-BodyText-ListItem
-Quote,paragon,28/40,32/40,.Theme-Layer-BodyText-Blockquote
-Quote Source,long-primer (tbc),18/24,18/24,.Theme-Layer-BodyText-QuoteCite
-Editorial In-body OJs,body copy,22/32,22/32,N/A
-Image caption,long-primer,18/24,18/24,.Theme-Caption
-Time stamps,N/A,,,N/A
-Image credit,minion,12/16,12/16,N/A
-Made by credit,minion (tbc),12/16,12/16,.custom-footer
-Text over media 1,Imperial,64/72,96/104,.Theme-Layer-TextBlock-Inner .Theme-Title
-Text over media 2,Royal,52/60,76/84,.Theme-Layer-TextBlock-Inner .Theme-SubTitle
-Text over media 3,Foolscap,40/44,56/60,.Theme-Layer-TextBlock-Inner .Theme-Text 
+Article Usage,Type,<620,>620,Shorthand CSSH1,canon,38/46,44/54,.Theme-Layer-TextBlock-Inner .Theme-StoryTitleStandfirst,trafalgar,32/38,36/50,.Theme-Layer-TextBlock-Inner .Theme-LeadInByline,pica,20/26,20/26,.Theme-Layer-TextBlock-Inner .Theme-BylineH2,trafalgar,32/38,36/50,.Theme-Layer-BodyText-Heading-LargeH3,paragon,28/40,32/40,.Theme-Layer-BodyText-Heading-SmallH4,double-pica,26/36,28/36,.Theme-Layer-BodyText-Heading-xsBody copy,body copy,22/32,22/32,".Theme-Layer-BodyText p, .Theme-Story p"Bullets,body copy,22/32,22/32,Theme-Layer-BodyText-ListItemQuote,paragon,28/40,32/40,.Theme-Layer-BodyText-BlockquoteQuote Source,long-primer (tbc),18/24,18/24,.Theme-Layer-BodyText-QuoteCiteEditorial In-body OJs,body copy,22/32,22/32,N/AImage caption,pics,20/26,20/26,.Theme-CaptionTime stamps,N/A,,,N/AImage credit,minion,Dec-16,Dec-16,N/AMade by credit,pica,20/26,20/26,.custom-footerText over media 1,Imperial,64/72,96/104,.Theme-Layer-TextBlock-Inner .Theme-TitleText over media 2,Royal,52/60,76/84,.Theme-Layer-TextBlock-Inner .Theme-SubTitleText over media 3,Foolscap,40/44,56/60,.Theme-Layer-TextBlock-Inner .Theme-Text 

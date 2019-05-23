@@ -81,25 +81,25 @@ body {
     font-style: normal;
 }
 
-/** Quote Source long-primer **/
+/** Quote Source pica **/
 .Theme-Layer-BodyText-QuoteCite {
     font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-    font-size: 18px!important;
-    line-height: 24px!important;
+    font-size: 20px!important;
+    line-height: 26px!important;
 }
 
-/** Image Caption long-primer **/
-.Theme-Caption {
+/** Image Caption pica **/
+.Theme-Caption p:not(:empty) {
     font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-    font-size: 18px!important;
-    line-height: 24px!important;
+    font-size: 20px!important;
+    line-height: 26px!important;
 }
 
-/** "made by" credit minion **/
+/** "made by" credit pica **/
 .custom-footer {
     font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-    font-size: 12px!important;
-    line-height: 16px!important;
+    font-size: 20px!important;
+    line-height: 26px!important;
 }
 
 /** text over media 1 Imperial **/
@@ -193,25 +193,25 @@ body {
         font-style: normal;
     }
 
-    /** Quote Source long-primer **/
+    /** Quote Source pica **/
     .Theme-Layer-BodyText-QuoteCite {
         font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 18px!important;
-        line-height: 24px!important;
+        font-size: 20px!important;
+        line-height: 26px!important;
     }
 
-    /** Image Caption long-primer **/
-    .Theme-Caption {
+    /** Image Caption pica **/
+    .Theme-Caption p:not(:empty) {
         font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 18px!important;
-        line-height: 24px!important;
+        font-size: 20px!important;
+        line-height: 26px!important;
     }
 
-    /** "made by" credit minion **/
+    /** "made by" credit pica **/
     .custom-footer {
         font-family: "BBCNassim", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 12px!important;
-        line-height: 16px!important;
+        font-size: 20px!important;
+        line-height: 26px!important;
     }
 
     /** text over media 1 Imperial **/
