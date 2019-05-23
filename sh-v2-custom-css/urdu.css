@@ -1,68 +1,68 @@
 @font-face {
-    font-family: "NassimArabic";
+    font-family: "NassimUrdu";
     font-weight: 700;
     font-style: normal;
-    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/bold.ttf') format('ttf');
+    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/bold.ttf') format('ttf');
     font-display: optional;
-  }
+}
   
   @font-face {
-    font-family: "NassimArabic";
+    font-family: "NassimUrdu";
     font-weight: 400;
     font-style: normal;
-    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimArabic/latest/normal.ttf') format('ttf');
+    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimUrdu/latest/normal.ttf') format('ttf');
     font-display: optional;
-  }
+}
 
 body { 
-  font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+  font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
 }
 
 /** H1 canon **/
 .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 38px!important;
     line-height: 46px!important;
 }
 
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 32px!important;
     line-height: 38px!important;
 }
 
 /** byline pica **/
 .Theme-Layer-TextBlock-Inner .Theme-Byline {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 20px!important;
     line-height: 26px!important;
 }
 
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 32px!important;
     line-height: 38px!important;
 }
 
 /** H3 paragon **/
 .Theme-Layer-BodyText-Heading-Small {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 28px!important;
     line-height: 40px!important;
 }
 
 /** H4 double-pica **/
 .Theme-Layer-BodyText-Heading-xs {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 26px!important;
     line-height: 36px!important;
 }
 
 /** body copy **/
 .Theme-Layer-BodyText p, .Theme-Story p {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px;
     line-height: 32px;
     font-style: normal;
@@ -70,14 +70,14 @@ body {
 
 /** Bullets body copy **/
 .Theme-Layer-BodyText-ListItem {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px!important;
     line-height: 32px!important;
 }
 
 /** Quotes paragon **/
 .Theme-Layer-BodyText-Blockquote {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 28px!important;
     line-height: 40px!important;
     font-style: normal;
@@ -85,42 +85,42 @@ body {
 
 /** Quote Source pica **/
 .Theme-Layer-BodyText-QuoteCite {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 20px!important;
     line-height: 26px!important;
 }
 
 /** Image Caption pica **/
 .Theme-Caption p:not(:empty) {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 20px!important;
     line-height: 26px!important;
 }
 
 /** "made by" credit pica **/
 .custom-footer {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 20px!important;
     line-height: 26px!important;
 }
 
 /** text over media 1 Imperial **/
 .Theme-Layer-TextBlock-Inner .Theme-Title {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 64px!important;
     line-height: 72px!important;
 }
 
 /** text over media 2 Royal **/
 .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 52px!important;
     line-height: 60px!important;
 }
 
 /** text over media 3 Foolscap **/
 .Theme-Layer-TextBlock-Inner .Theme-Text {
-    font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 40px!important;
     line-height: 44px!important;
 }
@@ -132,49 +132,49 @@ body {
 
     /** H1 canon **/
     .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 44px!important;
         line-height: 54px!important;
     }
 
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 36px!important;
         line-height: 50px!important;
     }
 
     /** byline pica **/
     .Theme-Layer-TextBlock-Inner .Theme-Byline {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 20px!important;
         line-height: 26px!important;
     }
 
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 36px!important;
         line-height: 50px!important;
     }
 
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 32px!important;
         line-height: 40px!important;
     }
 
     /** H4 double-pica **/
     .Theme-Layer-BodyText-Heading-xs {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 28px!important;
         line-height: 36px!important;
     }
 
     /** body copy **/
     .Theme-Layer-BodyText p, .Theme-Story p {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 22px;
         line-height: 32px;
         font-style: normal;
@@ -182,14 +182,14 @@ body {
 
     /** Bullets body copy **/
     .Theme-Layer-BodyText-ListItem {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 22px!important;
         line-height: 32px!important;
     }
 
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 32px!important;
         line-height: 40px!important;
         font-style: normal;
@@ -197,42 +197,42 @@ body {
 
     /** Quote Source pica **/
     .Theme-Layer-BodyText-QuoteCite {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 20px!important;
         line-height: 26px!important;
     }
 
     /** Image Caption pica **/
     .Theme-Caption p:not(:empty) {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 20px!important;
         line-height: 26px!important;
     }
 
     /** "made by" credit pica **/
     .custom-footer {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 20px!important;
         line-height: 26px!important;
     }
 
     /** text over media 1 Imperial **/
     .Theme-Layer-TextBlock-Inner .Theme-Title {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 96px!important;
         line-height: 104px!important;
     }
 
     /** text over media 2 Royal **/
     .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 76px!important;
         line-height: 84px!important;
     }
 
     /** text over media 3 Foolscap **/
     .Theme-Layer-TextBlock-Inner .Theme-Text {
-        font-family: "NassimArabic", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-family: "NassimUrdu", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 56px!important;
         line-height: 60px!important;
     }
