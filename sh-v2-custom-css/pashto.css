@@ -1,0 +1,242 @@
+@font-face {
+    font-family: "NassimPashto";
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/bold.ttf') format('ttf');
+    font-display: optional;
+  }
+  
+  @font-face {
+    font-family: "NassimPashto";
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NassimPashto/latest/normal.ttf') format('ttf');
+    font-display: optional;
+  }
+  
+  
+
+body { 
+  font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+}
+
+/** H1 canon **/
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 38px!important;
+    line-height: 46px!important;
+}
+
+/** Stand first trafalgar **/
+.Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 32px!important;
+    line-height: 38px!important;
+}
+
+/** byline pica **/
+.Theme-Layer-TextBlock-Inner .Theme-Byline {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 20px!important;
+    line-height: 26px!important;
+}
+
+/** H2 trafalgar **/
+.Theme-Layer-BodyText-Heading-Large {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 32px!important;
+    line-height: 38px!important;
+}
+
+/** H3 paragon **/
+.Theme-Layer-BodyText-Heading-Small {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 28px!important;
+    line-height: 40px!important;
+}
+
+/** H4 double-pica **/
+.Theme-Layer-BodyText-Heading-xs {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 26px!important;
+    line-height: 36px!important;
+}
+
+/** body copy **/
+.Theme-Layer-BodyText p, .Theme-Story p {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 32px;
+    font-style: normal;
+}
+
+/** Bullets body copy **/
+.Theme-Layer-BodyText-ListItem {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 32px!important;
+}
+
+/** Quotes paragon **/
+.Theme-Layer-BodyText-Blockquote {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 28px!important;
+    line-height: 40px!important;
+    font-style: normal;
+}
+
+/** Quote Source pica **/
+.Theme-Layer-BodyText-QuoteCite {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 20px!important;
+    line-height: 26px!important;
+}
+
+/** Image Caption pica **/
+.Theme-Caption p:not(:empty) {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 20px!important;
+    line-height: 26px!important;
+}
+
+/** "made by" credit pica **/
+.custom-footer {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 20px!important;
+    line-height: 26px!important;
+}
+
+/** text over media 1 Imperial **/
+.Theme-Layer-TextBlock-Inner .Theme-Title {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 64px!important;
+    line-height: 72px!important;
+}
+
+/** text over media 2 Royal **/
+.Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 52px!important;
+    line-height: 60px!important;
+}
+
+/** text over media 3 Foolscap **/
+.Theme-Layer-TextBlock-Inner .Theme-Text {
+    font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 40px!important;
+    line-height: 44px!important;
+}
+
+
+
+/** 620+ **/
+@media (min-width: 620px){
+
+    /** H1 canon **/
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 44px!important;
+        line-height: 54px!important;
+    }
+
+    /** Stand first trafalgar **/
+    .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 36px!important;
+        line-height: 50px!important;
+    }
+
+    /** byline pica **/
+    .Theme-Layer-TextBlock-Inner .Theme-Byline {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 26px!important;
+    }
+
+    /** H2 trafalgar **/
+    .Theme-Layer-BodyText-Heading-Large {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 36px!important;
+        line-height: 50px!important;
+    }
+
+    /** H3 paragon **/
+    .Theme-Layer-BodyText-Heading-Small {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 34px!important;
+        line-height: 44px!important;
+    }
+
+    /** H4 double-pica **/
+    .Theme-Layer-BodyText-Heading-xs {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 28px!important;
+        line-height: 34px!important;
+    }
+
+    /** body copy **/
+    .Theme-Layer-BodyText p, .Theme-Story p {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 22px;
+        line-height: 32px;
+        font-style: normal;
+    }
+
+    /** Bullets body copy **/
+    .Theme-Layer-BodyText-ListItem {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 22px!important;
+        line-height: 32px!important;
+    }
+
+    /** Quotes paragon **/
+    .Theme-Layer-BodyText-Blockquote {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 34px!important;
+        line-height: 44px!important;
+        font-style: normal;
+    }
+
+    /** Quote Source pica **/
+    .Theme-Layer-BodyText-QuoteCite {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 26px!important;
+    }
+
+    /** Image Caption pica **/
+    .Theme-Caption p:not(:empty) {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 26px!important;
+    }
+
+    /** "made by" credit pica **/
+    .custom-footer {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 26px!important;
+    }
+
+    /** text over media 1 Imperial **/
+    .Theme-Layer-TextBlock-Inner .Theme-Title {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 96px!important;
+        line-height: 104px!important;
+    }
+
+    /** text over media 2 Royal **/
+    .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 76px!important;
+        line-height: 84px!important;
+    }
+
+    /** text over media 3 Foolscap **/
+    .Theme-Layer-TextBlock-Inner .Theme-Text {
+        font-family: "NassimPashto", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 56px!important;
+        line-height: 60px!important;
+    }
+
+}
