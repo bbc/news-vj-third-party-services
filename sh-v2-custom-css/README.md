@@ -19,11 +19,11 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 #### Font Stack
 - Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx 
 - Gahuza: https://preview.shorthand.com/90Qv5FtaHtg1lCe6
-- Afaan Oromoo: 
-- Pidgin: 
-- Somali: 
-- Swahili: 
-- Hausa: 
+- Afaan Oromoo: (css same as above no preview created)
+- Pidgin: (css same as above no preview created)
+- Somali: (css same as above no preview created)
+- Swahili: (css same as above no preview created)
+- Hausa: (css same as above no preview created)
 
 #### Urdu, Arabic, Persian, Pashto
 - Arabic: https://preview.shorthand.com/t6tjsjSFLcIClUrc
@@ -39,9 +39,9 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 
 #### ASIA PACIFIC
 - Korean: https://preview.shorthand.com/wHiRw1Li6uGqJ0TE
-- Japanese:
-- Zhongwen:
-- Ukchina:
+- Japanese: https://preview.shorthand.com/q9WkGAdfQbwh8KWB 
+- Zhongwen: https://preview.shorthand.com/tL2fBczgjftzxbTV 
+- Ukchina: (as above)
 
 ##### Devanagari + Gurmukhi
 
