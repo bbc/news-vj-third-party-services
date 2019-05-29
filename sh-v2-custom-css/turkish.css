@@ -1,16 +1,17 @@
 
+
 /** H1 canon **/
 .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
 
-    font-size: 32px!important;
-    line-height: 36px!important;
+    font-size: 24px!important;
+    line-height: 28px!important;
 }
 
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
 
-    font-size: 24px!important;
-    line-height: 28px!important;
+    font-size: 22px!important;
+    line-height: 26px!important;
 }
 
 /** byline pica **/
@@ -23,8 +24,8 @@
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
 
-    font-size: 24px!important;
-    line-height: 28px!important;
+    font-size: 22px!important;
+    line-height: 26px!important;
 }
 
 /** H3 paragon **/
@@ -61,7 +62,7 @@
 
     font-size: 22px!important;
     line-height: 26px!important;
-
+    font-style: normal;
 }
 
 /** Quote Source pica **/
@@ -114,15 +115,15 @@
     /** H1 canon **/
     .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
 
-        font-size: 44px!important;
-        line-height: 48px!important;
+        font-size: 38px!important;
+        line-height: 42px!important;
     }
 
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
 
-        font-size: 32px!important;
-        line-height: 36px!important;
+        font-size: 30px!important;
+        line-height: 34px!important;
     }
 
     /** byline pica **/
@@ -135,15 +136,15 @@
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
 
-        font-size: 32px!important;
-        line-height: 36px!important;
+        font-size: 30px!important;
+        line-height: 34px!important;
     }
 
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
 
-        font-size: 28px!important;
-        line-height: 32px!important;
+        font-size: 30px!important;
+        line-height: 34px!important;
     }
 
     /** H4 double-pica **/
@@ -171,9 +172,9 @@
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
 
-        font-size: 28px!important;
-        line-height: 32px!important;
-
+        font-size: 30px!important;
+        line-height: 34px!important;
+        font-style: normal;
     }
 
     /** Quote Source pica **/

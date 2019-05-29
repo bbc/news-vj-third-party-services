@@ -5,7 +5,7 @@
     src: url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/bold.ttf') format('ttf');
     font-display: swap;
   }
-  
+
   @font-face {
     font-family: "NotoSansEthiopic";
     font-weight: 400;
@@ -13,14 +13,14 @@
     src: url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/NotoSansEthiopic/latest/normal.ttf') format('ttf');
     font-display: swap;
   }
-  
 
-body { 
+
+body {
   font-family: "NotoSansEthiopic", Arial, Verdana, Geneva, Helvetica, sans-serif;
 }
 
 /** H1 canon **/
-.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
     font-family: "NotoSansEthiopic", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 32px!important;
     line-height: 42px!important;
@@ -132,7 +132,7 @@ body {
 @media (min-width: 620px){
 
     /** H1 canon **/
-    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
         font-family: "NotoSansEthiopic", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 44px!important;
         line-height: 58px!important;
@@ -162,7 +162,7 @@ body {
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
         font-family: "NotoSansEthiopic", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
     }
 
@@ -191,7 +191,7 @@ body {
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
         font-family: "NotoSansEthiopic", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
         font-style: normal;
     }

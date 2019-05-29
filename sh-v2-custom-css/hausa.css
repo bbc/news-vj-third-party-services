@@ -1,10 +1,10 @@
 
-body { 
+body {
   font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
 }
 
 /** H1 canon **/
-.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 32px!important;
     line-height: 36px!important;
@@ -65,7 +65,7 @@ body {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 22px!important;
     line-height: 26px!important;
-    font-style: normal;
+
 }
 
 /** Quote Source pica **/
@@ -116,7 +116,7 @@ body {
 @media (min-width: 620px){
 
     /** H1 canon **/
-    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 44px!important;
         line-height: 48px!important;
@@ -177,7 +177,6 @@ body {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 28px!important;
         line-height: 32px!important;
-        font-style: normal;
     }
 
     /** Quote Source pica **/

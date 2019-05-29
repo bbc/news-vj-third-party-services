@@ -17,13 +17,11 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 
 
 #### Font Stack
-- Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx
-- Gahuza: https://preview.shorthand.com/90Qv5FtaHtg1lCe6
-- Afaan Oromoo: (css same as above no preview created)
-- Pidgin: (css same as above no preview created)
-- Somali: (css same as above no preview created)
-- Swahili: (css same as above no preview created)
-- Hausa: (css same as above no preview created)
+
+- Hausa: https://preview.shorthand.com/QpGQAgppPXkiSmDy 
+- Igbo: (css same as above no preview created)
+- Yoruba: (css same as above no preview created)
+- Vietnamese: (css same as above no preview created)
 
 #### Urdu, Arabic, Persian, Pashto
 - Arabic: https://preview.shorthand.com/t6tjsjSFLcIClUrc
@@ -41,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 - Korean: https://preview.shorthand.com/wHiRw1Li6uGqJ0TE
 - Japanese: https://preview.shorthand.com/q9WkGAdfQbwh8KWB
 - Zhongwen: https://preview.shorthand.com/tL2fBczgjftzxbTV
-- Ukchina: (as above)
+- Ukchina: (css same as above no preview created)
 
 ##### Devanagari + Gurmukhi
 
@@ -57,17 +55,27 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 - Bengali: https://preview.shorthand.com/q8NtBkAnBxFntXRs
 - Burmese:
 - Tamil:
-- Sinhalese: 
+- Sinhala:
+- Thai:
 
-#### REITH - NO CHANGES (no added CSS)
+#### REITH - Latin Diacritics (CSS line-height changes)
+- Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx
 - Mundo (Spanish)
 - Brasil (Portuguese)
 - Turkish
+- Azeri
+
+#### REITH - NO CHANGES TO NEWS THEME (no added CSS)
+
+- Gahuza: https://preview.shorthand.com/90Qv5FtaHtg1lCe6
+- Afaan Oromoo
+- Pidgin
+- Somali
+- Swahili
 - Indonesian
 - Serbian Latin
 - Serbian Cyrillic
 - Russian
-- Azeri TBC
 - Ukrainian TBC
 - Uzbek TBC
 - Kyrgyz

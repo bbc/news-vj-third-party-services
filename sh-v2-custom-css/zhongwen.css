@@ -1,10 +1,10 @@
 
-body { 
+body {
   font-family: Helvetica, Arial, STHeiti, 华文黑体, "Microsoft YaHei", 微软雅黑, SimSun, 宋体;
 }
 
 /** H1 canon **/
-.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
     font-family: Helvetica, Arial, STHeiti, 华文黑体, "Microsoft YaHei", 微软雅黑, SimSun, 宋体;
     font-size: 32px!important;
     line-height: 42px!important;
@@ -116,7 +116,7 @@ body {
 @media (min-width: 620px){
 
     /** H1 canon **/
-    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
         font-family: Helvetica, Arial, STHeiti, 华文黑体, "Microsoft YaHei", 微软雅黑, SimSun, 宋体;
         font-size: 44px!important;
         line-height: 58px!important;
@@ -146,7 +146,7 @@ body {
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
         font-family: Helvetica, Arial, STHeiti, 华文黑体, "Microsoft YaHei", 微软雅黑, SimSun, 宋体;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
     }
 
@@ -175,7 +175,7 @@ body {
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
         font-family: Helvetica, Arial, STHeiti, 华文黑体, "Microsoft YaHei", 微软雅黑, SimSun, 宋体;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
         font-style: normal;
     }

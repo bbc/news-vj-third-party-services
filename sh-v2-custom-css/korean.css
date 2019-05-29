@@ -1,10 +1,10 @@
 
-body { 
+body {
   font-family: "Apple SD Gothic Neo", AppleGothic, “Malgun Gothic”,	Dotum, "Noto Sans CJK KR",	sans-serif;
 }
 
 /** H1 canon **/
-.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
     font-family: "Apple SD Gothic Neo", AppleGothic, “Malgun Gothic”,	Dotum, "Noto Sans CJK KR",	sans-serif;
     font-size: 32px!important;
     line-height: 42px!important;
@@ -116,7 +116,7 @@ body {
 @media (min-width: 620px){
 
     /** H1 canon **/
-    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
         font-family: "Apple SD Gothic Neo", AppleGothic, “Malgun Gothic”,	Dotum, "Noto Sans CJK KR",	sans-serif;
         font-size: 44px!important;
         line-height: 58px!important;
@@ -146,7 +146,7 @@ body {
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
         font-family: "Apple SD Gothic Neo", AppleGothic, “Malgun Gothic”,	Dotum, "Noto Sans CJK KR",	sans-serif;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
     }
 
@@ -175,7 +175,7 @@ body {
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
         font-family: "Apple SD Gothic Neo", AppleGothic, “Malgun Gothic”,	Dotum, "Noto Sans CJK KR",	sans-serif;
-        font-size: 30px!important;
+        font-size: 28px!important;
         line-height: 38px!important;
         font-style: normal;
     }
