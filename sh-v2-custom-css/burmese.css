@@ -1,0 +1,238 @@
+@font-face {
+  font-family: "Padauk";
+  font-weight: 700;
+  font-style: normal;
+  src: url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/bold.ttf') format('ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Padauk";
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/Padauk/latest/normal.ttf') format('ttf');
+  font-display: swap;
+}
+
+body {
+  font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+}
+
+/** H1 canon **/
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 30px!important;
+    line-height: 44px!important;
+}
+
+/** Stand first trafalgar **/
+.Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 30px!important;
+}
+
+/** byline pica **/
+.Theme-Layer-TextBlock-Inner .Theme-Byline {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 16px!important;
+    line-height: 26px!important;
+}
+
+/** H2 trafalgar **/
+.Theme-Layer-BodyText-Heading-Large {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 30px!important;
+}
+
+/** H3 paragon **/
+.Theme-Layer-BodyText-Heading-Small {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 30px!important;
+}
+
+/** H4 double-pica **/
+.Theme-Layer-BodyText-Heading-xs {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 20px!important;
+    line-height: 30px!important;
+}
+
+/** body copy **/
+.Theme-Layer-BodyText p, .Theme-Story p {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 16px!important;
+    line-height: 28px!important;
+}
+
+/** Bullets body copy **/
+.Theme-Layer-BodyText-ListItem {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 16px!important;
+    line-height: 28px!important;
+}
+
+/** Quotes paragon **/
+.Theme-Layer-BodyText-Blockquote {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 30px!important;
+}
+
+/** Quote Source pica **/
+.Theme-Layer-BodyText-QuoteCite {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 15px!important;
+    line-height: 24px!important;
+}
+
+/** Image Caption pica **/
+.Theme-Caption p:not(:empty) {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 16px!important;
+    line-height: 26px!important;
+}
+
+/** "made by" credit pica **/
+.custom-footer {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 16px!important;
+    line-height: 26px!important;
+}
+
+/** text over media 1 Imperial **/
+.Theme-Layer-TextBlock-Inner .Theme-Title {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 64px!important;
+    line-height: 72px!important;
+}
+
+/** text over media 2 Royal **/
+.Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 52px!important;
+    line-height: 60px!important;
+}
+
+/** text over media 3 Foolscap **/
+.Theme-Layer-TextBlock-Inner .Theme-Text {
+    font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 40px!important;
+    line-height: 44px!important;
+}
+
+
+
+/** 620+ **/
+@media (min-width: 620px){
+
+    /** H1 canon **/
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 44px!important;
+        line-height: 72px!important;
+    }
+
+    /** Stand first trafalgar **/
+    .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 28px!important;
+        line-height: 42px!important;
+    }
+
+    /** byline pica **/
+    .Theme-Layer-TextBlock-Inner .Theme-Byline {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 24px!important;
+    }
+
+    /** H2 trafalgar **/
+    .Theme-Layer-BodyText-Heading-Large {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 28px!important;
+        line-height: 42px!important;
+    }
+
+    /** H3 paragon **/
+    .Theme-Layer-BodyText-Heading-Small {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 36px!important;
+    }
+
+    /** H4 double-pica **/
+    .Theme-Layer-BodyText-Heading-xs {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 26px!important;
+        line-height: 34px!important;
+    }
+
+    /** body copy **/
+    .Theme-Layer-BodyText p, .Theme-Story p {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 16px!important;
+        line-height: 30px!important;
+        font-style: normal;
+    }
+
+    /** Bullets body copy **/
+    .Theme-Layer-BodyText-ListItem {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 16px!important;
+        line-height: 30px!important;
+    }
+
+    /** Quotes paragon **/
+    .Theme-Layer-BodyText-Blockquote {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 36px!important;
+        font-style: normal;
+    }
+
+    /** Quote Source pica **/
+    .Theme-Layer-BodyText-QuoteCite {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 15px!important;
+        line-height: 24px!important;
+    }
+
+    /** Image Caption pica **/
+    .Theme-Caption p:not(:empty) {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 24px!important;
+    }
+
+    /** "made by" credit pica **/
+    .custom-footer {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 20px!important;
+        line-height: 24px!important;
+    }
+
+    /** text over media 1 Imperial **/
+    .Theme-Layer-TextBlock-Inner .Theme-Title {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 96px!important;
+        line-height: 104px!important;
+    }
+
+    /** text over media 2 Royal **/
+    .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 76px!important;
+        line-height: 84px!important;
+    }
+
+    /** text over media 3 Foolscap **/
+    .Theme-Layer-TextBlock-Inner .Theme-Text {
+        font-family: Padauk, Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 56px!important;
+        line-height: 60px!important;
+    }
+
+}
