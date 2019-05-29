@@ -55,9 +55,9 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 #### Other
 
 - Bengali: https://preview.shorthand.com/q8NtBkAnBxFntXRs
-- Burmese
-- Tamil
-- Sinhalese
+- Burmese:
+- Tamil:
+- Sinhalese: 
 
 #### REITH - NO CHANGES (no added CSS)
 - Mundo (Spanish)
