@@ -1,0 +1,242 @@
+
+.Theme-Section-Dark {
+
+}
+
+.Theme-RevealSection, .Theme-Section-Dark, .Theme-Section-Dark .Theme-Overlay {
+  background-color: #000000;
+}
+.Theme-Section-Dark .Theme-Layer-BodyText{
+  background-color: #000000;
+}
+
+.Theme-TitleSection .Theme-Layer-TextBlock-Inner:not(:last-child) {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.Theme-Layer-BodyText-Heading-Small {
+    color: #252525!important;
+}
+.Theme-HeaderContainer, .Theme-Story {
+    color: #252525!important;
+}
+.Theme-Layer-BodyText-Heading-Small {
+    color: #252525!important;
+}
+
+/** H1 canon **/
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: 700;
+    color:: #FAFAFA;
+}
+
+/** Stand first trafalgar **/
+.Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: bold;
+    color:: #DCD6c9;
+}
+
+/** byline pica **/
+.Theme-Layer-TextBlock-Inner .Theme-Byline {
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: normal;
+    color:: #DCD6c9;
+}
+
+/** H2 trafalgar **/
+.Theme-Layer-BodyText-Heading-Large {
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: normal;
+
+}
+
+/** H3 paragon **/
+.Theme-Layer-BodyText-Heading-Small {
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: normal;
+
+}
+
+/** H4 double-pica **/
+.Theme-Layer-BodyText-Heading-xs {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+/** body copy **/
+.Theme-Layer-BodyText p, .Theme-Story p {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+/** Bullets body copy **/
+.Theme-Layer-BodyText-ListItem {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+}
+
+/** Quotes paragon **/
+.Theme-Layer-BodyText-Blockquote {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+}
+
+/** Quote Source pica **/
+.Theme-Layer-BodyText-QuoteCite {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/** Image Caption pica **/
+.Theme-Caption p:not(:empty) {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+/** "made by" credit pica **/
+.custom-footer {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+}
+
+/** text over media 1 Imperial **/
+.Theme-Layer-TextBlock-Inner .Theme-Title {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+/** text over media 2 Royal **/
+.Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+/** text over media 3 Foolscap **/
+.Theme-Layer-TextBlock-Inner .Theme-Text {
+  font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+  font-weight: normal;
+
+}
+
+
+
+/** 620+ **/
+@media (min-width: 620px){
+
+  /** H1 canon **/
+  .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: 700;
+      color:: #FAFAFA;
+  }
+
+  /** Stand first trafalgar **/
+  .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: bold;
+      color:: #DCD6c9;
+  }
+
+  /** byline pica **/
+  .Theme-Layer-TextBlock-Inner .Theme-Byline {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+      color:: #DCD6c9;
+  }
+
+
+
+    /** H2 trafalgar **/
+    .Theme-Layer-BodyText-Heading-Large {
+        font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+        font-weight: normal;
+
+    }
+
+    /** H3 paragon **/
+    .Theme-Layer-BodyText-Heading-Small {
+        font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+        font-weight: normal;
+
+    }
+
+    /** H4 double-pica **/
+    .Theme-Layer-BodyText-Heading-xs {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** body copy **/
+    .Theme-Layer-BodyText p, .Theme-Story p {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** Bullets body copy **/
+    .Theme-Layer-BodyText-ListItem {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** Quotes paragon **/
+    .Theme-Layer-BodyText-Blockquote {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+      font-style: italic;
+
+    }
+
+    /** Quote Source pica **/
+    .Theme-Layer-BodyText-QuoteCite {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** Image Caption pica **/
+    .Theme-Caption p:not(:empty) {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** "made by" credit pica **/
+    .custom-footer {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** text over media 1 Imperial **/
+    .Theme-Layer-TextBlock-Inner .Theme-Title {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** text over media 2 Royal **/
+    .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+    /** text over media 3 Foolscap **/
+    .Theme-Layer-TextBlock-Inner .Theme-Text {
+      font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+      font-weight: normal;
+
+    }
+
+}
