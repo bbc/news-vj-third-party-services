@@ -53,17 +53,19 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 #### Other
 
 - Bengali: https://preview.shorthand.com/q8NtBkAnBxFntXRs
-- Burmese:
+- Burmese: https://preview.shorthand.com/3yF4P5u0puZvWvw3
 - Tamil:
 - Sinhala:
 - Thai:
 
+The Themes below should have Reith as it is in the News site. The first group need some line height changes. The second group's themes should be identical to News.
+
 #### REITH - Latin Diacritics (CSS line-height changes)
 - Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx
-- Mundo (Spanish)
-- Brasil (Portuguese)
-- Turkish
-- Azeri
+- Mundo: (as above/no preview)
+- Brasil: (as above/no preview)
+- Turkish: (as above/no preview)
+- Azeri: (as above/no preview)
 
 #### REITH - NO CHANGES TO NEWS THEME (no added CSS)
 
