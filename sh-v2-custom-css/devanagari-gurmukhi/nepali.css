@@ -1,109 +1,110 @@
 
 body {
-  font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+  font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
 }
 
 /** H1 canon **/
 .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 36px!important;
     line-height: 46px!important;
 }
 
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 24px!important;
     line-height: 36px!important;
 }
 
 /** byline pica **/
 .Theme-Layer-TextBlock-Inner .Theme-Byline {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 24px!important;
     line-height: 36px!important;
 }
 
 /** H3 paragon **/
 .Theme-Layer-BodyText-Heading-Small {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px!important;
     line-height: 32px!important;
 }
 
 /** H4 double-pica **/
 .Theme-Layer-BodyText-Heading-xs {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 20px!important;
     line-height: 28px!important;
 }
 
 /** body copy **/
 .Theme-Layer-BodyText p, .Theme-Story p {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** Bullets body copy **/
 .Theme-Layer-BodyText-ListItem {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** Quotes paragon **/
 .Theme-Layer-BodyText-Blockquote {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px!important;
     line-height: 32px!important;
+    font-style:normal;
 }
 
 /** Quote Source pica **/
 .Theme-Layer-BodyText-QuoteCite {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** Image Caption pica **/
 .Theme-Caption p:not(:empty) {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** "made by" credit pica **/
 .custom-footer {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 16px!important;
     line-height: 24px!important;
 }
 
 /** text over media 1 Imperial **/
 .Theme-Layer-TextBlock-Inner .Theme-Title {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 64px!important;
     line-height: 72px!important;
 }
 
 /** text over media 2 Royal **/
 .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 52px!important;
     line-height: 60px!important;
 }
 
 /** text over media 3 Foolscap **/
 .Theme-Layer-TextBlock-Inner .Theme-Text {
-    font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+    font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 40px!important;
     line-height: 44px!important;
 }
@@ -115,49 +116,49 @@ body {
 
     /** H1 canon **/
     .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 44px!important;
         line-height: 58px!important;
     }
 
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 32px!important;
         line-height: 44px!important;
     }
 
     /** byline pica **/
     .Theme-Layer-TextBlock-Inner .Theme-Byline {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
     }
 
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 32px!important;
         line-height: 44px!important;
     }
 
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 28px!important;
         line-height: 42px!important;
     }
 
     /** H4 double-pica **/
     .Theme-Layer-BodyText-Heading-xs {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 24px!important;
         line-height: 36px!important;
     }
 
     /** body copy **/
     .Theme-Layer-BodyText p, .Theme-Story p {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 18px!important;
         line-height: 26px!important;
         font-style: normal;
@@ -165,14 +166,14 @@ body {
 
     /** Bullets body copy **/
     .Theme-Layer-BodyText-ListItem {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 18px!important;
         line-height: 26px!important;
     }
 
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 28px!important;
         line-height: 42px!important;
         font-style: normal;
@@ -180,42 +181,42 @@ body {
 
     /** Quote Source pica **/
     .Theme-Layer-BodyText-QuoteCite {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
     }
 
     /** Image Caption pica **/
     .Theme-Caption p:not(:empty) {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
     }
 
     /** "made by" credit pica **/
     .custom-footer {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
     }
 
     /** text over media 1 Imperial **/
     .Theme-Layer-TextBlock-Inner .Theme-Title {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 96px!important;
         line-height: 104px!important;
     }
 
     /** text over media 2 Royal **/
     .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 76px!important;
         line-height: 84px!important;
     }
 
     /** text over media 3 Foolscap **/
     .Theme-Layer-TextBlock-Inner .Theme-Text {
-        font-family:"Noto Sans Devanagari", Hind, "Mukta Vaani", Gautami, "Kohinoor Devanagari", sans-serif;
+        font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 56px!important;
         line-height: 60px!important;
     }

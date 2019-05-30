@@ -64,6 +64,7 @@ body {
     font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px!important;
     line-height: 32px!important;
+    font-style:normal;
 }
 
 /** Quote Source pica **/
