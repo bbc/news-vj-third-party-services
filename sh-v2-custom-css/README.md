@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 
 #### Font Stack
 
-- Hausa: https://preview.shorthand.com/QpGQAgppPXkiSmDy 
+- Hausa: https://preview.shorthand.com/QpGQAgppPXkiSmDy
 - Igbo: (css same as above no preview created)
 - Yoruba: (css same as above no preview created)
 - Vietnamese: (css same as above no preview created)
