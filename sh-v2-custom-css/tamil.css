@@ -28,15 +28,15 @@ body {
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 18px!important;
-    line-height: 26px!important;
+    font-size: 22px!important;
+    line-height: 30px!important;
 }
 
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 18px!important;
-    line-height: 26px!important;
+    font-size: 22px!important;
+    line-height: 30px!important;
 }
 
 /** H3 paragon **/
@@ -117,15 +117,15 @@ body {
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 22px!important;
-        line-height: 30px!important;
+        font-size: 28px!important;
+        line-height: 38px!important;
     }
 
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 22px!important;
-        line-height: 30px!important;
+        font-size: 28px!important;
+        line-height: 38px!important;
     }
 
     /** H4 double-pica **/
