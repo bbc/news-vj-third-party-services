@@ -32,6 +32,13 @@ body {
     line-height: 28px!important;
 }
 
+/** byline pica **/
+.Theme-Layer-TextBlock-Inner .Theme-Byline {
+    font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 22px!important;
+    line-height: 24px!important;
+}
+
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
     font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
@@ -41,6 +48,13 @@ body {
 
 /** H3 paragon **/
 .Theme-Layer-BodyText-Heading-Small {
+    font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 26px!important;
+    line-height: 26px!important;
+}
+
+/** H4 double pica **/
+.Theme-Layer-BodyText-Heading-xs {
     font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 26px!important;
     line-height: 26px!important;
@@ -118,6 +132,20 @@ body {
         font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 22px!important;
         line-height: 24px!important;
+    }
+
+    /** H4 double pica **/
+    .Theme-Layer-BodyText-Heading-xs {
+        font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 26px!important;
+        line-height: 36px!important;
+    }
+
+    /** H3 paragon **/
+    .Theme-Layer-BodyText-Heading-Small {
+        font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
+        font-size: 28px!important;
+        line-height: 38px!important;
     }
 
     /** H2 trafalgar **/
