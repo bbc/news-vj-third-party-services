@@ -52,7 +52,7 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 
 #### Other
 
-- Bengali: https://preview.shorthand.com/q8NtBkAnBxFntXRs
+- Bengali: (Latest (updated): https://preview.shorthand.com/AqPfN7I7xfmVhP0P ) https://preview.shorthand.com/q8NtBkAnBxFntXRs
 - Burmese: https://preview.shorthand.com/3yF4P5u0puZvWvw3
 - Tamil: https://preview.shorthand.com/IY863Y3itiS8iIFi
 - Sinhala: https://preview.shorthand.com/CTEFn5n95Hphme3d
