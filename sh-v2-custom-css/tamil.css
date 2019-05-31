@@ -84,21 +84,21 @@ body {
 /** text over media 1 Imperial **/
 .Theme-Layer-TextBlock-Inner .Theme-Title {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 64px!important;
-    line-height: 72px!important;
+    font-size: 52px!important;
+    line-height: 70px!important;
 }
 
 /** text over media 2 Royal **/
 .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 52px!important;
-    line-height: 60px!important;
+    font-size: 40px!important;
+    line-height: 58px!important;
 }
 
 /** text over media 3 Foolscap **/
 .Theme-Layer-TextBlock-Inner .Theme-Text {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 40px!important;
+    font-size: 30px!important;
     line-height: 44px!important;
 }
 
@@ -160,22 +160,22 @@ body {
     /** text over media 1 Imperial **/
     .Theme-Layer-TextBlock-Inner .Theme-Title {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 96px!important;
-        line-height: 10px!important4;
+        font-size: 76px!important;
+        line-height: 104px!important4;
     }
 
     /** text over media 2 Royal **/
     .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 76px!important;
-        line-height: 84px!important;
+        font-size: 56px!important;
+        line-height: 80px!important;
     }
 
     /** text over media 3 Foolscap **/
     .Theme-Layer-TextBlock-Inner .Theme-Text {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 56px!important;
-        line-height: 60px!important;
+        font-size: 46px!important;
+        line-height: 68px!important;
     }
 
 }
