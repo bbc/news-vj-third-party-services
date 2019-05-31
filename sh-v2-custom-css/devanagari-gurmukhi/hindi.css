@@ -64,7 +64,7 @@ body {
     font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
     font-size: 22px!important;
     line-height: 32px!important;
-    font-style:normal;
+    font-style: normal!important;
 }
 
 /** Quote Source pica **/
@@ -176,7 +176,7 @@ body {
         font-family: "Noto Sans Devanagari", Arial, Verdana, Geneva, Helvetica, sans-serif;
         font-size: 28px!important;
         line-height: 42px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Quote Source pica **/

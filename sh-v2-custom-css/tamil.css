@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Latha";
   font-weight: 700;
-  font-style: normal;
+  font-style: normal!important;
   src: url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/bold.ttf') format('ttf');
   font-display: swap;
 }
@@ -9,7 +9,7 @@
 @font-face {
   font-family: "Latha";
   font-weight: 400;
-  font-style: normal;
+  font-style: normal!important;
   src: url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/Latha/latest/normal.ttf') format('ttf');
   font-display: swap;
 }
@@ -72,6 +72,7 @@ body {
     font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 18px!important;
     line-height: 26px!important;
+    font-style: normal!important;
 }
 
 /** Quote Source pica **/
@@ -128,6 +129,13 @@ body {
         line-height: 38px!important;
     }
 
+    /** H3 paragon **/
+    .Theme-Layer-BodyText-Heading-Small {
+        font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
+        font-size: 22px!important;
+        line-height: 30px!important;
+    }
+
     /** H4 double-pica **/
     .Theme-Layer-BodyText-Heading-xs {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
@@ -140,7 +148,7 @@ body {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 14px!important;
         line-height: 24px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Bullets body copy **/
@@ -148,6 +156,14 @@ body {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 14px!important;
         line-height: 24px!important;
+    }
+
+    /** Quotes paragon **/
+    .Theme-Layer-BodyText-Blockquote {
+        font-family: Tahoma, Helmet, Reesans, Helvetica, Arial, sans-serif;
+        font-size: 22px!important;
+        line-height: 30px!important;
+        font-style: normal!important;
     }
 
     /** Quote Source pica **/
@@ -161,7 +177,7 @@ body {
     .Theme-Layer-TextBlock-Inner .Theme-Title {
         font-family: Latha, Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 76px!important;
-        line-height: 104px!important4;
+        line-height: 104px!important;
     }
 
     /** text over media 2 Royal **/

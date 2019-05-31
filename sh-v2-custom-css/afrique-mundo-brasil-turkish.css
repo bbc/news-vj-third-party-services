@@ -9,8 +9,8 @@
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
 
-    font-size: 22px!important;
-    line-height: 26px!important;
+    font-size: 24px!important;
+    line-height: 28px!important;
 }
 
 /** byline pica **/
@@ -23,8 +23,8 @@
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
 
-    font-size: 22px!important;
-    line-height: 26px!important;
+    font-size: 24px!important;
+    line-height: 28px!important;
 }
 
 /** H3 paragon **/
@@ -63,18 +63,19 @@
 
 }
 
-/** Quote Source pica **/
+/** Quote Source long primer **/
 .Theme-Layer-BodyText-QuoteCite {
 
-    font-size: 16px!important;
+    font-size: 15px!important;
     line-height: 20px!important;
 }
 
 /** Image Caption pica **/
 .Theme-Caption p:not(:empty) {
 
-    font-size: 16px!important;
-    line-height: 20px!important;
+  font-size: 15px!important;
+  line-height: 20px!important;
+
 }
 
 /** "made by" credit pica **/
@@ -120,8 +121,8 @@
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
 
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 32px!important;
+        line-height: 36px!important;
     }
 
     /** byline pica **/
@@ -134,8 +135,8 @@
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
 
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 32px!important;
+        line-height: 36px!important;
     }
 
     /** H3 paragon **/
@@ -170,22 +171,23 @@
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
 
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 28px!important;
+        line-height: 32px!important;
     }
 
-    /** Quote Source pica **/
+    /** Quote Source long-primer **/
     .Theme-Layer-BodyText-QuoteCite {
 
-        font-size: 16px!important;
-        line-height: 20px!important;
+        font-size: 14px!important;
+        line-height: 18px!important;
     }
 
-    /** Image Caption pica **/
+    /** Image Caption long-primer **/
     .Theme-Caption p:not(:empty) {
 
-        font-size: 16px!important;
-        line-height: 20px!important;
+      font-size: 14px!important;
+      line-height: 18px!important;
+
     }
 
     /** "made by" credit pica **/

@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Mallanna";
   font-weight: 400;
-  font-style: normal;
+  font-style: normal!important;
   src: url('https://ws-downloads.files.bbci.co.uk/fonts/Mallanna/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/Mallanna/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/Mallanna/latest/normal.ttf') format('ttf');
   font-display: swap;
 }
@@ -167,7 +167,7 @@ body {
         font-family: Mallanna, "Noto Sans Telugu", "Hind Guntur",	Gautami,	"Kohinoor Telugu", sans-serif;
         font-size: 18px!important;
         line-height: 26px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Bullets body copy **/
@@ -182,7 +182,7 @@ body {
         font-family: Mallanna, "Noto Sans Telugu", "Hind Guntur",	Gautami,	"Kohinoor Telugu", sans-serif;
         font-size: 28px!important;
         line-height: 42px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Quote Source pica **/

@@ -63,6 +63,7 @@ body {
     font-family: Tahoma, Helmet, Reesans, Helvetica, Arial, sans-serif;
     font-size: 22px!important;
     line-height: 28px!important;
+    font-style: normal!important;
 }
 
 /** Quote Source pica **/
@@ -174,7 +175,7 @@ body {
         font-family: Tahoma, Helmet, Reesans, Helvetica, Arial, sans-serif;
         font-size: 28px!important;
         line-height: 36px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Quote Source pica **/

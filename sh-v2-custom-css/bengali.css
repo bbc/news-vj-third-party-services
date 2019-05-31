@@ -1,7 +1,7 @@
 @font-face {
   font-family: "ShonarBangla";
   font-weight: 700;
-  font-style: normal;
+  font-style: normal!important;
   src: url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/bold.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/bold.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/bold.ttf') format('ttf');
   font-display: optional;
 }
@@ -9,7 +9,7 @@
 @font-face {
   font-family: "ShonarBangla";
   font-weight: 400;
-  font-style: normal;
+  font-style: normal!important;
   src: url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/normal.woff') format('woff'), url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/normal.eot') format('eot'), url('https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/latest/normal.ttf') format('ttf');
   font-display: optional;
 }
@@ -81,6 +81,7 @@ body {
     font-family: ShonarBangla, Helmet, Freesans, Helvetica, Arial,	sans-serif;
     font-size: 28px!important;
     line-height: 32px!important;
+    font-style: normal!important;
 }
 
 /** Quote Source pica **/
@@ -177,7 +178,7 @@ body {
         font-family: ShonarBangla, Helmet, Freesans, Helvetica, Arial,	sans-serif;
         font-size: 22px!important;
         line-height: 28px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Bullets body copy **/
@@ -192,7 +193,7 @@ body {
         font-family: ShonarBangla, Helmet, Freesans, Helvetica, Arial,	sans-serif;
         font-size: 32px!important;
         line-height: 40px!important;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Quote Source pica **/
