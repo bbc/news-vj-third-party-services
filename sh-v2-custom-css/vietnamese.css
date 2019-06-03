@@ -1,20 +1,20 @@
 
-body { 
+body {
   font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
 }
 
 /** H1 canon **/
-.Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 24px!important;
-    line-height: 28px!important;
+    font-size: 32px!important;
+    line-height: 36px!important;
 }
 
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 22px!important;
-    line-height: 26px!important;
+    font-size: 24px!important;
+    line-height: 28px!important;
 }
 
 /** byline pica **/
@@ -27,8 +27,8 @@ body {
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 22px!important;
-    line-height: 26px!important;
+    font-size: 24px!important;
+    line-height: 28px!important;
 }
 
 /** H3 paragon **/
@@ -48,8 +48,8 @@ body {
 /** body copy **/
 .Theme-Layer-BodyText p, .Theme-Story p {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 16px!important;
+    line-height: 22px!important;
     font-style: normal;
 }
 
@@ -68,14 +68,14 @@ body {
     font-style: normal;
 }
 
-/** Quote Source pica **/
+/** Quote Source long primer **/
 .Theme-Layer-BodyText-QuoteCite {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 16px!important;
+    font-size: 15px!important;
     line-height: 20px!important;
 }
 
-/** Image Caption pica **/
+/** Image Caption long primer **/
 .Theme-Caption p:not(:empty) {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px!important;
@@ -116,17 +116,17 @@ body {
 @media (min-width: 620px){
 
     /** H1 canon **/
-    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle { 
+    .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 38px!important;
-        line-height: 42px!important;
+        font-size: 44px!important;
+        line-height: 52px!important;
     }
 
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 32px!important;
+        line-height: 36px!important;
     }
 
     /** byline pica **/
@@ -139,15 +139,15 @@ body {
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 32px!important;
+        line-height: 36px!important;
     }
 
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 28px!important;
+        line-height: 32px!important;
     }
 
     /** H4 double-pica **/
@@ -160,34 +160,34 @@ body {
     /** body copy **/
     .Theme-Layer-BodyText p, .Theme-Story p {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 16px;
-        line-height: 22px;
+        font-size: 16px!important;
+        line-height: 22px!important;
         font-style: normal;
     }
 
     /** Bullets body copy **/
     .Theme-Layer-BodyText-ListItem {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 16px;
-        line-height: 22px;
+        font-size: 16px!important;
+        line-height: 22px!important;
     }
 
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 30px!important;
-        line-height: 34px!important;
+        font-size: 28px!important;
+        line-height: 32px!important;
         font-style: normal;
     }
 
-    /** Quote Source pica **/
+    /** Quote Source long primer **/
     .Theme-Layer-BodyText-QuoteCite {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 16px!important;
-        line-height: 20px!important;
+        font-size: 14px!important;
+        line-height: 18px!important;
     }
 
-    /** Image Caption pica **/
+    /** Image Caption long primer **/
     .Theme-Caption p:not(:empty) {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px!important;
