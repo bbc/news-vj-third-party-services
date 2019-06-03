@@ -24,8 +24,8 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 - Ukrainian: (css same as above no preview created) *[READY FOR THEME]*
 - Uzbek: (css same as above no preview created) *[READY FOR THEME]*
 
-- Vietnamese:
-- Azeri:
+- Vietnamese: https://preview.shorthand.com/cCz27jJDftWtkZGK
+- Azeri: https://preview.shorthand.com/QfXUpCPxHFTBGytQ
 
 #### RTL: Urdu, Arabic, Persian, Pashto
 - Arabic: https://preview.shorthand.com/t6tjsjSFLcIClUrc *[READY FOR THEME]*
