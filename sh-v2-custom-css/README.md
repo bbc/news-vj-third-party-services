@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 - Tamil: https://preview.shorthand.com/IY863Y3itiS8iIFi *[READY FOR THEME]*
 - Thai: https://preview.shorthand.com/BIZMJ1rvSxjnObtV *[READY FOR THEME]*
 - Burmese: https://preview.shorthand.com/3yF4P5u0puZvWvw3 *[READY FOR THEME]*
-- Sinhala: https://preview.shorthand.com/CTEFn5n95Hphme3d / https://preview.shorthand.com/YJPy34rgfZ5qXghu
+- Sinhala: https://preview.shorthand.com/CTEFn5n95Hphme3d
 
 The Themes below should have Reith as it is in the News site. The first group need some line height changes. The second group's themes should be identical to News.
 
