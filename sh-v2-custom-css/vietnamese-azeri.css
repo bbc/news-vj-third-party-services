@@ -78,7 +78,7 @@ body {
 /** Image Caption long primer **/
 .Theme-Caption p:not(:empty) {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 16px!important;
+    font-size: 15px!important;
     line-height: 20px!important;
 }
 
@@ -190,8 +190,8 @@ body {
     /** Image Caption long primer **/
     .Theme-Caption p:not(:empty) {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 16px!important;
-        line-height: 20px!important;
+        font-size: 14px!important;
+        line-height: 18px!important;
     }
 
     /** "made by" credit pica **/
