@@ -93,8 +93,8 @@ body {
 /** Image Caption long primer **/
 .Theme-Caption p:not(:empty) {
     font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
-    font-size: 22px!important;
-    line-height: 24px!important;
+    font-size: 18px!important;
+    line-height: 22px!important;
 }
 
 /** "made by" credit pica **/
@@ -205,8 +205,8 @@ body {
     /** Image Caption long primer **/
     .Theme-Caption p:not(:empty) {
         font-family: "IskoolaPota", Arial, Verdana, Geneva, Helvetica, sans-serif;
-        font-size: 22px!important;
-        line-height: 24px!important;
+        font-size: 18px!important;
+        line-height: 22px!important;
     }
 
     /** "made by" credit pica **/
