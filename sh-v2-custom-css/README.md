@@ -19,8 +19,8 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 #### Font Stack
 
 - Hausa: https://preview.shorthand.com/QpGQAgppPXkiSmDy *[READY FOR THEME]*
-- Igbo: (css same as above no preview created) *[READY FOR THEME]*
-- Yoruba: (css same as above no preview created) *[READY FOR THEME]*
+- Igbo: https://preview.shorthand.com/xfOehP0amcZVMKYe *[READY FOR THEME]*
+- Yoruba: https://preview.shorthand.com/QA0T3fDguuDKvRfx *[READY FOR THEME]*
 - Ukrainian: (css same as above no preview created) *[READY FOR THEME]*
 - Uzbek: (css same as above no preview created) *[READY FOR THEME]*
 
@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 - Tamil: https://preview.shorthand.com/IY863Y3itiS8iIFi *[READY FOR THEME]*
 - Thai: https://preview.shorthand.com/BIZMJ1rvSxjnObtV *[READY FOR THEME]*
 - Burmese: https://preview.shorthand.com/3yF4P5u0puZvWvw3 *[READY FOR THEME]*
-- Sinhala: https://preview.shorthand.com/CTEFn5n95Hphme3d
+- Sinhala: https://preview.shorthand.com/CTEFn5n95Hphme3d *[READY FOR THEME]*
 
 The Themes below should have Reith as it is in the News site. The first group need some line height changes. The second group's themes should be identical to News.
 
