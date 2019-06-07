@@ -66,7 +66,7 @@ The Themes below should have Reith as it is in the News site. The first group ne
 
 #### REITH - Latin Diacritics (CSS line-height changes)
 - Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx *[READY FOR THEME]*
-- Mundo: (as above/no preview) *[READY FOR THEME]*
+- Mundo: https://preview.shorthand.com/qXpBnIYdKX9NrPsX *[READY FOR THEME]*
 - Brasil: (as above/no preview) *[READY FOR THEME]*
 - Turkish: (as above/no preview) *[READY FOR THEME]*
 
