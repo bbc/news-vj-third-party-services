@@ -1,113 +1,112 @@
-
-body {
-  font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
+body,
+.Theme-Layer-TextBlock-Inner .Theme-StoryTitle,
+.Theme-Layer-TextBlock-Inner .Theme-LeadIn,
+.Theme-Layer-TextBlock-Inner .Theme-Byline,
+.Theme-Layer-BodyText-Heading-Large,
+.Theme-Layer-BodyText-Heading-Small,
+.Theme-Layer-BodyText-Heading-xs,
+.Theme-Layer-BodyText p, .Theme-Story p,
+.Theme-Layer-BodyText-ListItem,
+.Theme-Layer-BodyText-Blockquote,
+.Theme-Layer-BodyText-QuoteCite,
+.Theme-Caption p:not(:empty),
+.custom-footer,
+.Theme-Layer-TextBlock-Inner .Theme-Title,
+.Theme-Layer-TextBlock-Inner .Theme-SubTitle,
+.Theme-Layer-TextBlock-Inner .Theme-Text {
+    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
 }
+
 
 /** H1 canon **/
 .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 32px!important;
-    line-height: 36px!important;
+    line-height: 38px!important;
 }
 
 /** Stand first trafalgar **/
 .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 24px!important;
-    line-height: 28px!important;
+    line-height: 30px!important;
 }
 
 /** byline pica **/
 .Theme-Layer-TextBlock-Inner .Theme-Byline {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px!important;
     line-height: 20px!important;
 }
 
 /** H2 trafalgar **/
 .Theme-Layer-BodyText-Heading-Large {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 24px!important;
-    line-height: 28px!important;
+    line-height: 30px!important;
 }
 
 /** H3 paragon **/
 .Theme-Layer-BodyText-Heading-Small {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 22px!important;
-    line-height: 26px!important;
+    line-height: 28px!important;
 }
 
 /** H4 double-pica **/
 .Theme-Layer-BodyText-Heading-xs {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 20px!important;
     line-height: 24px!important;
 }
 
 /** body copy **/
 .Theme-Layer-BodyText p, .Theme-Story p {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px!important;
     line-height: 22px!important;
-    font-style: normal!important;
 }
 
 /** Bullets body copy **/
 .Theme-Layer-BodyText-ListItem {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px!important;
     line-height: 22px!important;
 }
 
 /** Quotes paragon **/
 .Theme-Layer-BodyText-Blockquote {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 22px!important;
-    line-height: 26px!important;
+    line-height: 28px!important;
     font-style: normal!important;
 }
 
 /** Quote Source long primer **/
 .Theme-Layer-BodyText-QuoteCite {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 15px!important;
     line-height: 20px!important;
 }
 
-/** Image Caption long primer **/
+/** Image Caption pica **/
 .Theme-Caption p:not(:empty) {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-    font-size: 15px!important;
-    line-height: 20px!important;
+  font-size: 15px!important;
+  line-height: 20px!important;
 }
 
 /** "made by" credit pica **/
 .custom-footer {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px!important;
     line-height: 20px!important;
 }
 
 /** text over media 1 Imperial **/
 .Theme-Layer-TextBlock-Inner .Theme-Title {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 64px!important;
-    line-height: 72px!important;
+    line-height: 78px!important;
 }
 
 /** text over media 2 Royal **/
 .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 52px!important;
-    line-height: 60px!important;
+    line-height: 64px!important;
 }
 
 /** text over media 3 Foolscap **/
 .Theme-Layer-TextBlock-Inner .Theme-Text {
-    font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 40px!important;
-    line-height: 44px!important;
+    line-height: 48px!important;
 }
 
 
@@ -117,109 +116,94 @@ body {
 
     /** H1 canon **/
     .Theme-Layer-TextBlock-Inner .Theme-StoryTitle {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 44px!important;
         line-height: 52px!important;
     }
 
     /** Stand first trafalgar **/
     .Theme-Layer-TextBlock-Inner .Theme-LeadIn {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 32px!important;
-        line-height: 36px!important;
+        line-height: 38px!important;
     }
 
     /** byline pica **/
     .Theme-Layer-TextBlock-Inner .Theme-Byline {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px!important;
         line-height: 20px!important;
     }
 
     /** H2 trafalgar **/
     .Theme-Layer-BodyText-Heading-Large {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 32px!important;
-        line-height: 36px!important;
+        line-height: 38px!important;
     }
 
     /** H3 paragon **/
     .Theme-Layer-BodyText-Heading-Small {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 28px!important;
-        line-height: 32px!important;
+        line-height: 34px!important;
     }
 
     /** H4 double-pica **/
     .Theme-Layer-BodyText-Heading-xs {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 24px!important;
-        line-height: 28px!important;
+        line-height: 30px!important;
     }
 
     /** body copy **/
     .Theme-Layer-BodyText p, .Theme-Story p {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
-        font-style: normal!important;
+        font-style: normal;
     }
 
     /** Bullets body copy **/
     .Theme-Layer-BodyText-ListItem {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px!important;
         line-height: 22px!important;
     }
 
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 28px!important;
-        line-height: 32px!important;
+        line-height: 34px!important;
         font-style: normal!important;
     }
 
-    /** Quote Source long primer **/
+    /** Quote Source long-primer **/
     .Theme-Layer-BodyText-QuoteCite {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 14px!important;
         line-height: 18px!important;
     }
 
-    /** Image Caption long primer **/
+    /** Image Caption long-primer **/
     .Theme-Caption p:not(:empty) {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
-        font-size: 14px!important;
-        line-height: 18px!important;
+      font-size: 14px!important;
+      line-height: 18px!important;
     }
 
     /** "made by" credit pica **/
     .custom-footer {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px!important;
         line-height: 20px!important;
     }
 
     /** text over media 1 Imperial **/
     .Theme-Layer-TextBlock-Inner .Theme-Title {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 96px!important;
-        line-height: 104px!important;
+        line-height: 116px!important;
     }
 
     /** text over media 2 Royal **/
     .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 76px!important;
-        line-height: 84px!important;
+        line-height: 92px!important;
     }
 
     /** text over media 3 Foolscap **/
     .Theme-Layer-TextBlock-Inner .Theme-Text {
-        font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 56px!important;
-        line-height: 60px!important;
+        line-height: 68px!important;
     }
 
 }
