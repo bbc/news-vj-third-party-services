@@ -50,7 +50,7 @@ body {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 22px;
-    font-style: normal;
+    font-style: normal!important;
 }
 
 /** Bullets body copy **/
@@ -65,7 +65,7 @@ body {
     font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
     font-size: 22px!important;
     line-height: 26px!important;
-
+    font-style: normal!important;
 }
 
 /** Quote Source long primer **/
@@ -162,7 +162,7 @@ body {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 16px;
         line-height: 22px;
-        font-style: normal;
+        font-style: normal!important;
     }
 
     /** Bullets body copy **/
@@ -177,6 +177,7 @@ body {
         font-family: Helmet, Freesans, Helvetica, Arial, sans-serif;
         font-size: 28px!important;
         line-height: 32px!important;
+        font-style: normal!important;
     }
 
     /** Quote Source long primer **/

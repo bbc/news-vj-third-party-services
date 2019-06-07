@@ -57,10 +57,9 @@
 
 /** Quotes paragon **/
 .Theme-Layer-BodyText-Blockquote {
-
     font-size: 22px!important;
     line-height: 26px!important;
-
+    font-style: normal!important;
 }
 
 /** Quote Source long primer **/
@@ -170,9 +169,9 @@
 
     /** Quotes paragon **/
     .Theme-Layer-BodyText-Blockquote {
-
         font-size: 28px!important;
         line-height: 32px!important;
+        font-style: normal!important;
     }
 
     /** Quote Source long-primer **/
