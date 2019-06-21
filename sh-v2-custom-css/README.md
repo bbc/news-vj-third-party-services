@@ -19,8 +19,8 @@ https://docs.google.com/spreadsheets/d/1AL3ls3tS4qt0xjFhBkxFMZNMvxLRri3R9XXwxbzr
 #### Font Stack
 
 - Hausa: https://preview.shorthand.com/QpGQAgppPXkiSmDy *[READY FOR THEME]*
-- Igbo: https://preview.shorthand.com/xfOehP0amcZVMKYe *[READY FOR THEME]*
-- Yoruba: https://preview.shorthand.com/QA0T3fDguuDKvRfx *[READY FOR THEME]*
+- Igbo: ~~https://preview.shorthand.com/xfOehP0amcZVMKYe~~ / https://preview.shorthand.com/T68d6PuFbE3qblzD *[READY FOR THEME]*
+- Yoruba: ~~https://preview.shorthand.com/QA0T3fDguuDKvRfx~~ / https://preview.shorthand.com/BpEEg3EoesMIFIv1 *[READY FOR THEME]*
 - Ukrainian: (css same as above no preview created) *[READY FOR THEME]*
 - Uzbek: (css same as above no preview created) *[READY FOR THEME]*
 
@@ -66,7 +66,7 @@ The Themes below should have Reith as it is in the News site. The first group ne
 
 #### REITH - Latin Diacritics (CSS line-height changes)
 - Afrique: https://preview.shorthand.com/QTHUGhZtb588Wxtx *[READY FOR THEME]*
-- Mundo: (as above/no preview) *[READY FOR THEME]*
+- Mundo: https://preview.shorthand.com/qXpBnIYdKX9NrPsX *[READY FOR THEME]*
 - Brasil: (as above/no preview) *[READY FOR THEME]*
 - Turkish: (as above/no preview) *[READY FOR THEME]*
 
