@@ -1,0 +1,41 @@
+
+/** text over media 1 Royal **/
+.Theme-Layer-TextBlock-Inner .Theme-Title {
+  font-size: 52px!important;
+  line-height: 60px!important;
+}
+
+/** text over media 2 Foolscap **/
+.Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+  font-size: 40px!important;
+  line-height: 44px!important;
+}
+
+/** text over media 3  Canon **/
+.Theme-Layer-TextBlock-Inner .Theme-Text {
+  font-size: 32px!important;
+  line-height: 36px!important;
+}
+
+/** 620+ **/
+@media (min-width: 620px){
+
+    /** text over media 1 Royal **/
+    .Theme-Layer-TextBlock-Inner .Theme-Title {
+        font-size: 76px!important;
+        line-height: 84px!important;
+    }
+
+    /** text over media 2 Foolscap **/
+    .Theme-Layer-TextBlock-Inner .Theme-SubTitle {
+        font-size: 56px!important;
+        line-height: 60px!important;
+    }
+
+    /** text over media 3 Canon **/
+    .Theme-Layer-TextBlock-Inner .Theme-Text {
+        font-size: 44px!important;
+        line-height: 48px!important;
+    }
+
+}
